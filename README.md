@@ -1,9 +1,6 @@
 # Hi, I’m Punyak 👋
 
-🎓 **B.Tech. Electrical Engineering** — Dayalbagh Educational Institute  
-🎓 **B.S. Data Science & Applications (Online)** — IIT Madras  
-📍 India  
-🧠 Machine Learning • Data Science • Backend Systems
+Machine Learning • Data Science • Backend Systems
 
 ---
 
