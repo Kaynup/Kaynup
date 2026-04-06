@@ -54,6 +54,16 @@ My interests lie at the intersection of **algorithmic fundamentals and real-worl
 
 ## Featured Projects
 
+### 🔹 [Amazon ML Hackathon 2025 Research Pipelines](https://github.com/Kaynup/Amazon-ML-Hackathon-2025-Research-Educative-Pipelines)
+- Structured a robust research workspace for the Amazon ML Hackathon 2025 focusing on multimodal product price prediction from catalog text descriptions and images.
+- Implemented and benchmarked isolated models, advancing from **TF-IDF + LightGBM** baselines to **BERT** fine-tuning regressors and **BLIP** (vision + text) architectures.
+- Designed an organized experiment tracking system containing self-contained setups (`lib/`, `docs/`, `run.py`, `config.yaml`) supplemented by shared universal utilities.
+- *(Private Repository Note)*: Private competition codebase emphasizing reproducibility, scalable data setups, and clean experimentation tracking separating exploratory code from pipeline configurations.
+
+🔗 [Repository Link](https://github.com/Kaynup/Amazon-ML-Hackathon-2025-Research-Educative-Pipelines) *(Private)*
+
+---
+
 ### <a id="datalakemci"></a>🔹 [DataLakeMCI: Data Lakehouse Platform](https://github.com/Kaynup/Lakehouse-Apache-Platforms-Automated-Modular-Setup-for-Hypervisors)
 - Built a comprehensive Lakehouse platform utilizing **Apache Iceberg**, **Apache Hudi**, and **Apache Hive** on **Apache Spark**.
 - Containerized the entire big-data stack (Hadoop HDFS, Spark, Metastore, **PostgreSQL**) with **Docker**, using **Python** & **Java** environments.
