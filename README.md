@@ -1,37 +1,39 @@
 # Hi, I’m Punyak 👋
 
-Machine Learning • Data Engineering • Data Science • AI Systems
+Software Developer • Full Stack Developer • Machine Learning • AI Systems
 
 ---
 
 ## About Me
 
-I am an engineering undergraduate intensely focused on **machine learning, data engineering, and production-grade AI systems**.
-
-My interests lie at the intersection of **algorithmic fundamentals and real-world systems** — ranging from building distributed data pipelines and containerized LLM agents, to benchmarking inference frameworks and optimizing low-level numerical routines. I enjoy working close to the system level to engineer high-throughput and scalable pipelines rather than treating models as black boxes.
+Electrical Engineer with CS Specialization. Building Full Stack Systems and applications along with data-oriented projects and AI systems.
 
 ---
 
 ## Technical Stack
 
-### Languages
+### Backend & Deployment
+![FastAPI](https://img.shields.io/badge/FastAPI-333?logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-333?logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-333?logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-333?logo=railway&logoColor=white)
+
+### Machine Learning & AI
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-333?logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-333?logo=pytorch&logoColor=white)
+![llama.cpp](https://img.shields.io/badge/llama.cpp-333)
+[![Kaggle](https://img.shields.io/badge/Kaggle-333?logo=kaggle&logoColor=white)](https://www.kaggle.com/punyakdei)
+
+**Focus Areas:** NLP, Computer Vision, Transformers, AI Agents, CodeLLMs
+
+### Languages (I have worked with)
 ![Python](https://img.shields.io/badge/Python-333?logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-333?logo=openjdk&logoColor=white)
 ![C/C++](https://img.shields.io/badge/C%2FC++-333?logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-333?logo=javascript&logoColor=white)
-![Cython](https://img.shields.io/badge/Cython-333?logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-333?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-333?logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-333?logo=react&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-333?logo=php&logoColor=white)
-
-### Machine Learning & AI
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-333?logo=scikit-learn&logoColor=white)
-![JAX](https://img.shields.io/badge/JAX-333)
-![PyTorch](https://img.shields.io/badge/PyTorch-333?logo=pytorch&logoColor=white)
-![llama.cpp](https://img.shields.io/badge/llama.cpp-333)
-![Prophet](https://img.shields.io/badge/Prophet-333)
-
-**Focus Areas:** NLP, Computer Vision, Transformers, AI Agents, CodeLLMs
+![Cython](https://img.shields.io/badge/Cython-333?logo=python&logoColor=white)
 
 ### Data Engineering & Storage
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-333?logo=apachespark&logoColor=white)
@@ -44,42 +46,15 @@ My interests lie at the intersection of **algorithmic fundamentals and real-worl
 
 **Technologies:** Parquet, HDFS, ETL Pipelines, Datalakes, DBMS
 
-### Backend & Deployment
-![FastAPI](https://img.shields.io/badge/FastAPI-333?logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-333?logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-333?logo=vercel&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-333?logo=railway&logoColor=white)
-
 ---
 
 ## Featured Projects
 
-### 🔹 [Amazon ML Hackathon 2025 Research Pipelines](https://github.com/Kaynup/Amazon-ML-Hackathon-2025-Research-Educative-Pipelines)
-- Structured a robust research workspace for the Amazon ML Hackathon 2025 focusing on multimodal product price prediction from catalog text descriptions and images.
-- Implemented and benchmarked isolated models, advancing from **TF-IDF + LightGBM** baselines to **BERT** fine-tuning regressors and **BLIP** (vision + text) architectures.
-- Designed an organized experiment tracking system containing self-contained setups (`lib/`, `docs/`, `run.py`, `config.yaml`) supplemented by shared universal utilities.
-- *(Private Repository Note)*: Private competition codebase emphasizing reproducibility, scalable data setups, and clean experimentation tracking separating exploratory code from pipeline configurations.
+### <a id="url-shortener"></a>🔹 [URL Shortener](https://github.com/Kaynup/URL-Shortener)
+- A custom URL shortener project I've been very proud of recently.
+- *(Private Repository Note)*: Currently private but will be released publicly after deployment!
 
-🔗 [Repository Link](https://github.com/Kaynup/Amazon-ML-Hackathon-2025-Research-Educative-Pipelines) *(Private)*
-
----
-
-### <a id="datalakemci"></a>🔹 [DataLakeMCI: Data Lakehouse Platform](https://github.com/Kaynup/Lakehouse-Apache-Platforms-Automated-Modular-Setup-for-Hypervisors)
-- Built a comprehensive Lakehouse platform utilizing **Apache Iceberg**, **Apache Hudi**, and **Apache Hive** on **Apache Spark**.
-- Containerized the entire big-data stack (Hadoop HDFS, Spark, Metastore, **PostgreSQL**) with **Docker**, using **Python** & **Java** environments.
-- Enabled complex ETL pipelines and structured data modeling for robust time-series forecasting (e.g. using **Prophet**).
-
-🔗 [Repository Link](https://github.com/Kaynup/Lakehouse-Apache-Platforms-Automated-Modular-Setup-for-Hypervisors) *(Private)*
-
----
-
-### <a id="codellm"></a>🔹 [CodeLLM Lightweight Agent Modular using Docker](https://github.com/Kaynup/CodeLLM-lightweight-Agent-Modular-using-Docker)
-- Built a fully local, containerized multi-agent coding system powered by quantized LLMs running in **PyTorch**.
-- Used **llama.cpp** to handle GGUF models for reasoning (Deepseek distilled w/ Qwen2.5 – 7B and 1.5B).
-- Developed **Dockerized** units inside a Black-Box Agent and optimized end-to-end pipelines using **Python** for model ensembles.
-- *(Private Repository Note)*: The architecture heavily relies on **Docker** for isolated environments, orchestrating robust local LLM workloads securely off the internet.
-
-🔗 [Repository Link](https://github.com/Kaynup/CodeLLM-lightweight-Agent-Modular-using-Docker) *(Private)*
+🔗 [Repository Link](https://github.com/Kaynup/URL-Shortener) *(Private)*
 
 ---
 
@@ -115,7 +90,36 @@ My interests lie at the intersection of **algorithmic fundamentals and real-worl
 
 ---
 
+### 🔹 [Amazon ML Hackathon 2025 Research Pipelines](https://github.com/Kaynup/Amazon-ML-Hackathon-2025-Research-Educative-Pipelines)
+- Structured a robust research workspace for the Amazon ML Hackathon 2025 focusing on multimodal product price prediction from catalog text descriptions and images.
+- Implemented and benchmarked isolated models, advancing from **TF-IDF + LightGBM** baselines to **BERT** fine-tuning regressors and **BLIP** (vision + text) architectures.
+- Designed an organized experiment tracking system containing self-contained setups (`lib/`, `docs/`, `run.py`, `config.yaml`) supplemented by shared universal utilities.
+- *(Private Repository Note)*: Private competition codebase emphasizing reproducibility, scalable data setups, and clean experimentation tracking separating exploratory code from pipeline configurations.
+
+🔗 [Repository Link](https://github.com/Kaynup/Amazon-ML-Hackathon-2025-Research-Educative-Pipelines) *(Private)*
+
+---
+
+### <a id="datalakemci"></a>🔹 [DataLakeMCI: Data Lakehouse Platform](https://github.com/Kaynup/Lakehouse-Apache-Platforms-Automated-Modular-Setup-for-Hypervisors)
+- Built a comprehensive Lakehouse platform utilizing **Apache Iceberg**, **Apache Hudi**, and **Apache Hive** on **Apache Spark**.
+- Containerized the entire big-data stack (Hadoop HDFS, Spark, Metastore, **PostgreSQL**) with **Docker**, using **Python** & **Java** environments.
+- Enabled complex ETL pipelines and structured data modeling for robust time-series forecasting (e.g. using **Prophet**).
+
+🔗 [Repository Link](https://github.com/Kaynup/Lakehouse-Apache-Platforms-Automated-Modular-Setup-for-Hypervisors) *(Private)*
+
+---
+
+### <a id="codellm"></a>🔹 [CodeLLM Lightweight Agent Modular using Docker](https://github.com/Kaynup/CodeLLM-lightweight-Agent-Modular-using-Docker)
+- Built a fully local, containerized multi-agent coding system powered by quantized LLMs running in **PyTorch**.
+- Used **llama.cpp** to handle GGUF models for reasoning (Deepseek distilled w/ Qwen2.5 – 7B and 1.5B).
+- Developed **Dockerized** units inside a Black-Box Agent and optimized end-to-end pipelines using **Python** for model ensembles.
+- *(Private Repository Note)*: The architecture heavily relies on **Docker** for isolated environments, orchestrating robust local LLM workloads securely off the internet.
+
+🔗 [Repository Link](https://github.com/Kaynup/CodeLLM-lightweight-Agent-Modular-using-Docker) *(Private)*
+
+---
+
+
 ## Contact
 
-**punyak.dei@gmail.com**  
-[GitHub](https://github.com/Kaynup) | [Kaggle](#) 
+**punyak.dei@gmail.com**
