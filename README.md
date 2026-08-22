@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi,+I'm+Punyak+👋;Full+Stack+Software+Developer;Machine+Learning+%26+AI+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=808080&center=true&vCenter=true&width=600&lines=Hi,+I'm+Punyak+👋;Full+Stack+Software+Developer;Machine+Learning+%26+AI+Systems" alt="Typing SVG" />
 </div>
 
 ---
 
-## About Me
+<h2 align="center">About Me</h2>
 
 **Electrical Engineer with CS Specialization.** Building Full Stack Systems and applications along with data-oriented projects and AI systems.
 
@@ -13,25 +13,28 @@
 - 📬 Reach me at: **punyak.dei@gmail.com**
 
 <div align="center">
-  <a href="https://github.com/Kaynup"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.kaggle.com/punyakdei"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" /></a>
 </div>
 
 ---
 
-## Technical Stack
+<h2 align="center">Technical Stack</h2>
 
 | Category | Technologies |
 |---|---|
 | **Languages** | ![Python](https://img.shields.io/badge/Python-333?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-333?logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-333?logo=javascript&logoColor=white) ![ReactJS](https://img.shields.io/badge/ReactJS-333?logo=react&logoColor=white) ![Go](https://img.shields.io/badge/Go-333?logo=go&logoColor=white) ![Cython](https://img.shields.io/badge/Cython-333?logo=python&logoColor=white) |
 | **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-333?logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-333?logo=flask&logoColor=white) |
-| **Deployment** | ![Docker](https://img.shields.io/badge/Docker-333?logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-333?logo=amazonaws&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-333?logo=vercel&logoColor=white) ![Railway](https://img.shields.io/badge/Railway-333?logo=railway&logoColor=white) |
-| **Machine Learning & AI** | ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-333?logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-333?logo=pytorch&logoColor=white) ![llama.cpp](https://img.shields.io/badge/llama.cpp-333?logo=c%2B%2B&logoColor=white) |
-| **Data Eng & Storage** | ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-333?logo=apachespark&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-333?logo=apachespark&logoColor=white) ![Hadoop](https://img.shields.io/badge/Hadoop-333?logo=apachehadoop&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333?logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-333?logo=mysql&logoColor=white) ![DynamoDB](https://img.shields.io/badge/DynamoDB-333?logo=amazondynamodb&logoColor=white) <br> *(Parquet, HDFS, Iceberg, Hudi)* |
+| **Deployment** | ![Docker](https://img.shields.io/badge/Docker-333?logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-333?logo=amazonwebservices&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-333?logo=vercel&logoColor=white) ![Railway](https://img.shields.io/badge/Railway-333?logo=railway&logoColor=white) |
+| **Machine Learning & AI** | ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-333?logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-333?logo=pytorch&logoColor=white) ![llama.cpp](https://img.shields.io/badge/llama.cpp-333?logo=c%2B%2B&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-333?logo=ollama&logoColor=white) |
+| **Data Eng & Storage** | ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-333?logo=apachespark&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-333?logo=apachespark&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333?logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-333?logo=mysql&logoColor=white) ![DynamoDB](https://img.shields.io/badge/DynamoDB-333?logo=amazondynamodb&logoColor=white)|
 
 ---
 
-## Open Source Contributions
+<div align="center">
+  <img src="./assets/Earth and Connections.gif" alt="Earth and Connections" />
+</div>
+
+<h2 align="center">Open Source Contributions</h2>
 
 I actively contribute to popular open source repositories. Here are some of my recent contributions:
 
@@ -40,14 +43,14 @@ I actively contribute to popular open source repositories. Here are some of my r
 
 ---
 
-## Featured Projects
+<h2 align="center">Featured Projects</h2>
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Kaynup/URL-Shortener">URL Shortener</a></h3>
       <p>A custom URL shortener project I've been very proud of recently.</p>
-      <i>(Private Repository - Currently private but will be released publicly after deployment!)</i>
+      <i>(Private Repository - Currently private)</i>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Kaynup/Binary-Text-Classification-with-Sklearn-Jax">Binary Sentiment Classification</a></h3>
@@ -78,9 +81,9 @@ I actively contribute to popular open source repositories. Here are some of my r
 
 ---
 
-## GitHub Stats
+<h2 align="center">GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaynup&show_icons=true&theme=transparent&hide_border=true&title_color=2196F3" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaynup&layout=compact&theme=transparent&hide_border=true&title_color=2196F3" alt="Top Languages" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Kaynup&show_icons=true&theme=transparent&hide_border=true&title_color=2196F3&v=2" alt="GitHub Stats" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Kaynup&layout=compact&theme=transparent&hide_border=true&title_color=2196F3&v=2" alt="Top Languages" width="48%" />
 </div>
