@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=808080&center=true&vCenter=true&width=600&lines=Hi,+I'm+Punyak+👋;Full+Stack+Software+Developer;Machine+Learning+%26+AI+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=808080&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Punyak+%F0%9F%91%8B;Full+Stack+Software+Developer;Machine+Learning+%26+AI+Systems" alt="Typing SVG" />
 </div>
 
 ---
@@ -48,9 +48,9 @@ I actively contribute to popular open source repositories. Here are some of my r
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Kaynup/URL-Shortener">URL Shortener</a></h3>
-      <p>A custom URL shortener project I've been very proud of recently.</p>
-      <i>(Private Repository - Currently private)</i>
+      <h3><a href="https://github.com/Kaynup/URL-Shortener">HyperShort</a></h3>
+      <p>Production-grade URL shortener: FastAPI + ReactJS, JWT auth with sessionStorage, DynamoDB, bijective short-code generation, and 302 redirection. Deployed on AWS EC2 (t3.micro) with IAM role auth, elastic IP, and Caddy SSL.</p>
+      <i>(Private Repository)</i>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Kaynup/Binary-Text-Classification-with-Sklearn-Jax">Binary Sentiment Classification</a></h3>
@@ -61,6 +61,7 @@ I actively contribute to popular open source repositories. Here are some of my r
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Kaynup/cythml">cythml</a></h3>
       <p>Optimized machine learning algorithms and tools implemented with Cython for high performance and reduced Python overhead.</p>
+      <i>(Private Repository)</i>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Kaynup/Amazon-ML-Hackathon-2025-Research-Educative-Pipelines">Amazon ML Hackathon 2025</a></h3>
@@ -84,6 +85,6 @@ I actively contribute to popular open source repositories. Here are some of my r
 <h2 align="center">GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Kaynup&show_icons=true&theme=transparent&hide_border=true&title_color=2196F3&v=2" alt="GitHub Stats" width="48%" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Kaynup&layout=compact&theme=transparent&hide_border=true&title_color=2196F3&v=2" alt="Top Languages" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Kaynup&show_icons=true&theme=transparent&hide_border=true&title_color=2196F3&v=2" alt="GitHub Stats" width="50%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Kaynup&layout=compact&theme=transparent&hide_border=true&title_color=2196F3&v=2" alt="Top Languages" width="35%" />
 </div>
