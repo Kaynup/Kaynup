@@ -1,37 +1,28 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=808080&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Punyak+%F0%9F%91%8B;Full+Stack+Software+Developer;Machine+Learning+%26+AI+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=808080&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Punyak+%F0%9F%91%8B;Full+Stack+Software+Developer;Machine+Learning+Algorithms;AI+system+design+and+applications;Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
 ---
 
 <h2 align="center">About Me</h2>
 
-**Electrical Engineer with CS Specialization.** Building Full Stack Systems and applications along with data-oriented projects and AI systems.
+**Electrical Engineer with CS Specialization.** Building Full Stack Systems and applications along with data-oriented projects, AI applications, Open source contributions and basically everything that tires me out...
 
-- 🔭 I’m currently working on Full Stack Development & AI Agents.
-- 🌱 I’m currently focusing on: NLP, Computer Vision, Transformers, CodeLLMs.
+- 🔭 Currently working on [Orpheus](https://github.com/Kaynup/orpheus): *private until beta release*
 - 📬 Reach me at: **punyak.dei@gmail.com**
 
 <div align="center">
-  <a href="https://www.kaggle.com/punyakdei"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" /></a>
+  <p><i>Note: Some of these projects are currently private or in active development until their official release</i></p>
+  <a href="https://www.kaggle.com/punyakdei"><img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+  <a href="https://github.com/Kaynup/URL-Shortener"><img src="https://img.shields.io/badge/HyperShort-333?logo=fastapi&logoColor=white" alt="HyperShort" /></a>
+  <a href="https://github.com/Kaynup/orpheus"><img src="https://img.shields.io/badge/Orpheus-333?logo=flask&logoColor=white" alt="Orpheus" /></a>
+  <a href="https://github.com/Kaynup/cythml"><img src="https://img.shields.io/badge/cythml-333?logo=python&logoColor=white" alt="cythml" /></a>
 </div>
 
 ---
 
-<h2 align="center">Technical Stack</h2>
-
-| Category | Technologies |
-|---|---|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-333?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-333?logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-333?logo=javascript&logoColor=white) ![ReactJS](https://img.shields.io/badge/ReactJS-333?logo=react&logoColor=white) ![Go](https://img.shields.io/badge/Go-333?logo=go&logoColor=white) ![Cython](https://img.shields.io/badge/Cython-333?logo=python&logoColor=white) |
-| **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-333?logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-333?logo=flask&logoColor=white) |
-| **Deployment** | ![Docker](https://img.shields.io/badge/Docker-333?logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-333?logo=amazonwebservices&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-333?logo=vercel&logoColor=white) ![Railway](https://img.shields.io/badge/Railway-333?logo=railway&logoColor=white) |
-| **Machine Learning & AI** | ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-333?logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-333?logo=pytorch&logoColor=white) ![llama.cpp](https://img.shields.io/badge/llama.cpp-333?logo=c%2B%2B&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-333?logo=ollama&logoColor=white) |
-| **Data Eng & Storage** | ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-333?logo=apachespark&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-333?logo=apachespark&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333?logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-333?logo=mysql&logoColor=white) ![DynamoDB](https://img.shields.io/badge/DynamoDB-333?logo=amazondynamodb&logoColor=white)|
-
----
-
 <div align="center">
-  <img src="./assets/Earth and Connections.gif" alt="Earth and Connections" />
+  <img src="./assets/Earth and Connections.gif" alt="Earth and Connections" width="200" />
 </div>
 
 <h2 align="center">Open Source Contributions</h2>
@@ -66,7 +57,6 @@ I actively contribute to popular open source repositories. Here are some of my r
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Kaynup/Amazon-ML-Hackathon-2025-Research-Educative-Pipelines">Amazon ML Hackathon 2025</a></h3>
       <p>Structured a robust research workspace focusing on multimodal product price prediction from catalog text descriptions and images. Benchmarked TF-IDF + LightGBM to BERT fine-tuning regressors.</p>
-      <i>(Private Competition Codebase)</i>
     </td>
   </tr>
   <tr>
@@ -75,10 +65,24 @@ I actively contribute to popular open source repositories. Here are some of my r
       <p>Implemented a tabular Q-Learning agent for Tic-Tac-Toe. Fully reproducible training using configurable hyperparameters and random seeds via config.yaml.</p>
     </td>
     <td width="50%" valign="top">
-      <!-- Placeholder for future projects -->
+      <h3><a href="https://github.com/Kaynup/orpheus">Orpheus</a></h3>
+      <p>Retrieval-Augmented Generation (RAG) system with persistent vector storage (ChromaDB), multi-provider LLM orchestration (LiteLLM), and strict source citations. Built with Flask backend</p>
+      <i>(Private Repository, public on beta release)</i>
     </td>
   </tr>
 </table>
+
+---
+
+<h2 align="center">Technical Stack</h2>
+
+| Category | Technologies |
+|---|---|
+| **Languages** | ![Python](https://img.shields.io/badge/Python-333?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-333?logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-333?logo=javascript&logoColor=white) ![ReactJS](https://img.shields.io/badge/ReactJS-333?logo=react&logoColor=white) ![Go](https://img.shields.io/badge/Go-333?logo=go&logoColor=white) ![Cython](https://img.shields.io/badge/Cython-333?logo=python&logoColor=white) |
+| **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-333?logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-333?logo=flask&logoColor=white) |
+| **Deployment** | ![Docker](https://img.shields.io/badge/Docker-333?logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-333?logo=amazonwebservices&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-333?logo=vercel&logoColor=white) ![Railway](https://img.shields.io/badge/Railway-333?logo=railway&logoColor=white) |
+| **Machine Learning & AI** | ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-333?logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-333?logo=pytorch&logoColor=white) ![llama.cpp](https://img.shields.io/badge/llama.cpp-333?logo=c%2B%2B&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-333?logo=ollama&logoColor=white) |
+| **Data Eng & Storage** | ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-333?logo=apachespark&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-333?logo=apachespark&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333?logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-333?logo=mysql&logoColor=white) ![DynamoDB](https://img.shields.io/badge/DynamoDB-333?logo=amazondynamodb&logoColor=white)|
 
 ---
 
