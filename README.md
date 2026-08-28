@@ -29,8 +29,9 @@
 
 I actively contribute to popular open source repositories. Here are some of my recent contributions:
 
-- **scikit-learn/scikit-learn:** [PR #34789](https://github.com/scikit-learn/scikit-learn/pull/34789)
-- **explosion/projects (spaCy):** [PR #211](https://github.com/explosion/projects/pull/211)
+- **scikit-learn/scikit-learn:** [PR #34817](https://github.com/scikit-learn/scikit-learn/pull/34817) - Optimized `confusion_matrix_at_thresholds` with integer cumulative sum for unweighted inputs.
+- **scikit-learn/scikit-learn:** [PR #34789](https://github.com/scikit-learn/scikit-learn/pull/34789) - Preserved pandas DataFrame inputs and feature names across RFE and RFECV.
+- **explosion/projects (spaCy):** [PR #211](https://github.com/explosion/projects/pull/211)  Replaced OS-specific bash commands with cross-platform inline Python.
 
 ---
 
