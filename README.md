@@ -14,7 +14,7 @@
 <div align="center">
   <p><i>Note: Some of these projects are currently private or in active development until their official release</i></p>
   <a href="https://www.kaggle.com/punyakdei"><img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white" alt="Kaggle" /></a>
-  <a href="https://github.com/Kaynup/URL-Shortener"><img src="https://img.shields.io/badge/HyperShort-333?logo=fastapi&logoColor=white" alt="HyperShort" /></a>
+  <a href="https://gist.github.com/Kaynup/6225f11fedc4ef792753ba77f487455f"><img src="https://img.shields.io/badge/HyperShort-333?logo=fastapi&logoColor=white" alt="HyperShort" /></a>
   <a href="https://github.com/Kaynup/orpheus"><img src="https://img.shields.io/badge/Orpheus-333?logo=flask&logoColor=white" alt="Orpheus" /></a>
   <a href="https://github.com/Kaynup/cythml"><img src="https://img.shields.io/badge/cythml-333?logo=python&logoColor=white" alt="cythml" /></a>
 </div>
@@ -40,35 +40,35 @@ I actively contribute to popular open source repositories. Here are some of my r
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Kaynup/URL-Shortener">HyperShort</a></h3>
-      <p>Production-grade URL shortener: FastAPI + ReactJS, JWT auth with sessionStorage, DynamoDB, bijective short-code generation, and 302 redirection. Deployed on AWS EC2 (t3.micro) with IAM role auth, elastic IP, and Caddy SSL.</p>
-      <i>(Private Repository)</i>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Kaynup/Binary-Text-Classification-with-Sklearn-Jax">Binary Sentiment Classification</a></h3>
-      <p>Full-stack deployment of sentiment classifiers in Scikit-learn and JAX frameworks. Inferences handled via FastAPI on a Railway backend, connected to a vanilla JS frontend on Vercel.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Kaynup/cythml">cythml</a></h3>
-      <p>Optimized machine learning algorithms and tools implemented with Cython for high performance and reduced Python overhead.</p>
-      <i>(Private Repository)</i>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Kaynup/Amazon-ML-Hackathon-2025-Research-Educative-Pipelines">Amazon ML Hackathon 2025</a></h3>
-      <p>Structured a robust research workspace focusing on multimodal product price prediction from catalog text descriptions and images. Benchmarked TF-IDF + LightGBM to BERT fine-tuning regressors.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/Kaynup/Tic-Tac-Toe-Q-Learning">RL Tic-Tac-Toe Q-table Agent</a></h3>
-      <p>Implemented a tabular Q-Learning agent for Tic-Tac-Toe. Fully reproducible training using configurable hyperparameters and random seeds via config.yaml.</p>
+      <h3><a href="https://gist.github.com/Kaynup/6225f11fedc4ef792753ba77f487455f">HyperShort</a></h3>
+      <p>URL shortener: FastAPI + ReactJS, JWT auth with sessionStorage, DynamoDB, bijective short-code generation, and 302 redirection. Deployed on AWS EC2 (t3.micro) with IAM role auth, elastic IP, and Caddy SSL.</p>
+      <i>Gist:</i> <a href="https://gist.github.com/Kaynup/50bef9ee62d8a41ad3a4ab4d08e1295f">System Design</a>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Kaynup/orpheus">Orpheus</a></h3>
       <p>Retrieval-Augmented Generation (RAG) system with persistent vector storage (ChromaDB), multi-provider LLM orchestration (LiteLLM), and strict source citations. Built with Flask backend</p>
       <i>(Private Repository, public on beta release)</i>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Kaynup/Binary-Text-Classification-with-Sklearn-Jax">Binary Sentiment Classification</a></h3>
+      <p>Full-stack deployment of sentiment classifiers in Scikit-learn and JAX frameworks. Inferences handled via FastAPI on a Railway backend, connected to a vanilla JS frontend on Vercel.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Kaynup/cythml">cythml</a></h3>
+      <p>Optimized machine learning algorithms and tools implemented with Cython for high performance and reduced Python overhead.</p>
+      <i>(Private Repository)</i>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Kaynup/Amazon-ML-Hackathon-2025-Research-Educative-Pipelines">Amazon ML Hackathon 2025</a></h3>
+      <p>Structured a robust research workspace focusing on multimodal product price prediction from catalog text descriptions and images. Benchmarked TF-IDF + LightGBM to BERT fine-tuning regressors.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Kaynup/Tic-Tac-Toe-Q-Learning">RL Tic-Tac-Toe Q-table Agent</a></h3>
+      <p>Implemented a tabular Q-Learning agent for Tic-Tac-Toe. Fully reproducible training using configurable hyperparameters and random seeds via config.yaml.</p>
     </td>
   </tr>
 </table>
